@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269425656719",
+    "project_id": "dash-inside-knowledge-store",
+    "storage_bucket": "dash-inside-knowledge-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269425656719:android:a0ca4391177f6b5ea7c1fa",
+        "android_client_info": {
+          "package_name": "com.dashinside.knowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269425656719-19u6kqdnu36lg4ms86p5racnha5a541g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqqmMo7w0WBIIs-38MfoRt7wwBiBFGic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269425656719-19u6kqdnu36lg4ms86p5racnha5a541g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
